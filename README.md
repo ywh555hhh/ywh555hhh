@@ -6,6 +6,15 @@ wow i just create my own page to put some interesting things, really cool
 
 i am a boy ,China boy 🇨🇳  so lets start it 
 
+
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ywh555hhh)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ywh555hhh&count_private=true&show_icons=true&theme=rose)](https://github.com/ywh555hhh/github-readme-stats)
+
 <!--
 **ywh555hhh/ywh555hhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
