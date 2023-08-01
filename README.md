@@ -4,10 +4,11 @@ wow i just create my own page to put some interesting things, really cool
 
 i am a boy ,China boy 🇨🇳  so lets start it 
 
-
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:1916647616@qq.com)
 
 
 <h1 align="center">Hi 👋, I'm teapot1de</h1>
+ 
 <h3 align="center">A Sophomore computer science student from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ywh555hhh&label=Profile%20views&color=0e75b6&style=flat" alt="ywh555hhh" /> </p>
