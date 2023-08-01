@@ -1,5 +1,3 @@
-### Hi there 👋
-
 wow i just create my own page to put some interesting things, really cool
 
 💘 this means a arrow into my heaet, that arrow must be something greatly special， Jesus😼 ！！
@@ -10,17 +8,18 @@ i am a boy ,China boy 🇨🇳  so lets start it
 
 
 <h1 align="center">Hi 👋, I'm teapot1de</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Sophomore computer science student from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teapot1de&label=Profile%20views&color=0e75b6&style=flat" alt="teapot1de" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teapot1de" alt="teapot1de" /></a> </p>
+<!--
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teapot1de" alt="teapot1de" /></a> </p> 
+-->
 
 <p align="left"> <a href="https://twitter.com/teapot1de" target="blank"><img src="https://img.shields.io/twitter/follow/teapot1de?logo=twitter&style=for-the-badge" alt="teapot1de" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> Yo, you can catch me through these means, homie!</h3>
 <p align="left">
-<a href="https://twitter.com/teapot1de" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="teapot1de" height="30" width="40" /></a>
+<a href="https://twitter.com/NnnyiweiHandful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="teapot1de" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ywh555hhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ywh555hhh" height="30" width="40" /></a>
 </p>
 
