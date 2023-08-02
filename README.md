@@ -47,8 +47,7 @@ All you gotta do is click once, and it'll be able to send me an email
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ywh555hhh&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ywh555hhh&theme=rose" alt="ywh555hhh" /></p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ywh555hhh)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ywh555hhh&count_private=true&show_icons=true&theme=rose)](https://github.com/ywh555hhh/github-readme-stats)
+
 
 <!--
 **ywh555hhh/ywh555hhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
