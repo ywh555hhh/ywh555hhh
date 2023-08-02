@@ -59,8 +59,8 @@ All you gotta do is click once, and it'll be able to send me an email
 <!-- 联系方式 -->
 <h3 align="left">Yo, you can catch me through these means, homie!:</h3>
 <p align="left">
-<a href="https://twitter.com/nnnyiweihandful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nnnyiweihandful" height="30" width="40" /></a>
-<a href="leetcode.cn/u/ywh555hhh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ywh555hhh" height="30" width="40" /></a>
+<a href="https://twitter.com/nnnyiweihandful" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nnnyiweihandful" height="30" width="40" /></a>
+<a href="https://leetcode.cn/u/ywh555hhh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ywh555hhh" height="30" width="40" /></a>
 </p>
 
 
