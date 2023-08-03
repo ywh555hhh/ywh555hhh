@@ -1,9 +1,12 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <h1 align="center" style="color: #FF007F;">Yo!🤜, I'm teapot1de</h1>
 <h3 align="center">A Sophomore computer science student from China</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ywh555hhh&label=Profile%20views&color=0e75b6&style=flat" alt="ywh555hhh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ywh555hhh&label=Profile%20views&color=0e75b6&style=flat" alt="ywh555hhh" /> </p>
+
+That's dope! 🙀 I got visitors on my page! Well, you gotta check me out then 👀. Currently, I may not have any achievements or skills 🤫, but I'm slowly grinding and hustling ⛽️, right? "Know shame, then be brave" is an ancient wisdom of 🀄️ China. I'll keep pushing forward in the field 📁 of computers.
+
 wow i just create my own page to put some interesting things, really cool   
-💘 this means a arrow into my heaet, that arrow must be something greatly special， Jesus😼 ！！   
+💘 this means a arrow into my heaet, that arrow must be something greatly special， Jesus 😼 ！！   
 i am a boy ,China boy 🇨🇳  so lets start it   
   
 ## WHO I AM  
