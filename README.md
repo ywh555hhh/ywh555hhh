@@ -1,28 +1,12 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
- 
- 
-
- 
-
- 
-
-<h1 align="center" style="color: #FF007F;">Yo!🤜, I'm ywh555hhh,aka teapot1de</h1>
-
- 
+<h1 align="center" style="color: #FF007F;">Yo!🤜, I'm teapot1de</h1>
 <h3 align="center">A Sophomore computer science student from China</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ywh555hhh&label=Profile%20views&color=0e75b6&style=flat" alt="ywh555hhh" /> </p>
-
-wow i just create my own page to put some interesting things, really cool
-
-💘 this means a arrow into my heaet, that arrow must be something greatly special， Jesus😼 ！！
-
-i am a boy ,China boy 🇨🇳  so lets start it 
-
-
-
-## WHO I AM
-
+wow i just create my own page to put some interesting things, really cool   
+💘 this means a arrow into my heaet, that arrow must be something greatly special， Jesus😼 ！！   
+i am a boy ,China boy 🇨🇳  so lets start it   
+  
+## WHO I AM  
 😸 A Sophomore computer science student  
 📍 Yichun, Jiangxi, China  
 🏫 Nanchang University  
@@ -31,27 +15,14 @@ i am a boy ,China boy 🇨🇳  so lets start it
 🔢 Mathematical Modeling  
 👨‍💻 C++  C  Linux  ......  
 ✔️ LeetCode  
-🧮 Supercomputer（but it's even hard to begin）
-
-
+🧮 Supercomputer（but it's even hard to begin）  
 ## WHAT I LIKE  
 🏀 NBA ⛹ playit 💜Lakers 👑 LBJ 🌹 Drose  
 ⌨️ LPL 🐦‍🔥 FPX 🐶 lwx  
 🦫 loopy  
 🎭 Literature and Art
 
-
-
-
-
-
-
-
-
-
-
  一颗会转的地球
- 
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -62,7 +33,7 @@ All you gotta do is click once, and it'll be able to send me an email
 <p align="left"> <a href="https://twitter.com/nnnyiweihandful" target="blank"><img src="https://img.shields.io/twitter/follow/nnnyiweihandful?logo=twitter&style=for-the-badge" alt="nnnyiweihandful" /></a> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ywh555hhh" alt="ywh555hhh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ywh555hhh&theme=oldie&row=2&column=3" alt="ywh555hhh" /></a> </p>
 
 
 
