@@ -21,7 +21,7 @@ That's dope! 🙀 I got visitors on my page! Well, you gotta check me out then �
 🎭 Literature and Art  
 ## MY GITHUB STATS
 
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=teapot1de)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ywh555hhh&theme=oldie&row=2&column=3" alt="ywh555hhh" /></a> </p>
 
