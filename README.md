@@ -72,7 +72,8 @@ That's dope! 🙀 I got visitors on my page! Well, you gotta check me out then �
 
 <p align="left"><img src="homepage_media/LoopyQueenCard.gif" alt="LoopyQueenCard" width="500"></p>
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **ywh555hhh/ywh555hhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
