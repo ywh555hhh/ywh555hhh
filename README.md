@@ -23,9 +23,8 @@ haha that is all, i am a rookie
 ⌨️ LPL 🐦‍🔥 FPX 🐶 lwx  
 🦫 loopy  
 🎭 Literature and Art  
-## MY GITHUB STATS
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=teapot1de&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
+## MY   STATS
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ywh555hhh&theme=rose)](https://github.com/anuraghazra/github-readme-stats)    
 
 
 
@@ -34,7 +33,8 @@ haha that is all, i am a rookie
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ywh555hhh&count_private=true&show_icons=true&theme=rose)](https://github.com/ywh555hhh/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ywh555hhh&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=teapot1de&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ywh555hhh&theme=rose" alt="ywh555hhh" /></p>
 
