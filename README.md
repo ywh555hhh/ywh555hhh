@@ -3,7 +3,11 @@
 <h3 align="center">A raw Sophomore computer science student from China</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ywh555hhh&label=Profile%20views&color=0e75b6&style=flat" alt="ywh555hhh" /> </p>
 
-That's dope! 🙀 I got visitors on my page! Well, you gotta check me out then 👀. Currently, I may not have any achievements or skills 🤫, but I'm slowly grinding and hustling ⛽️, right? "Know shame, then be brave" is an ancient wisdom of 🀄️ China. I'll keep pushing forward in the field 📁 of computers.
+That's dope! 🙀 I got visitors on my page! Well, you gotta check me out then 👀. Currently, I may not have any achievements or skills 🤫, but I'm slowly grinding and hustling ⛽️, right? "Know shame, then be brave" is an ancient wisdom of 🀄️ China. I'll keep pushing forward in the field 📁 of computers.   
+## MY HONOR
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ywh555hhh&theme=oldie&row=2&column=3" alt="ywh555hhh" /></a> </p>
+
+haha that is all, i am a rookie
 ## WHO I AM  
 😸 A Sophomore computer science student  
 📍 Yichun, Jiangxi, China  
@@ -21,9 +25,8 @@ That's dope! 🙀 I got visitors on my page! Well, you gotta check me out then �
 🎭 Literature and Art  
 ## MY GITHUB STATS
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=teapot1de)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=teapot1de&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ywh555hhh&theme=oldie&row=2&column=3" alt="ywh555hhh" /></a> </p>
 
 
 
