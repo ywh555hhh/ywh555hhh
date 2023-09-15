@@ -1,11 +1,12 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<h6 align="center" style="color: #FF007F;">9.15 update</h6>
 <h1 align="center" style="color: #FF007F;">Yo!🤜, I'm teapot1de</h1>
 <h3 align="center">A raw Sophomore computer science student from China</h3>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ywh555hhh&label=Profile%20views&color=0e75b6&style=flat" alt="ywh555hhh" />
 </p>
 
-That's dope! 🙀 I got visitors on my page! Well, you gotta check me out then 👀. Currently, I may not have any achievements or skills 🤫, but I'm slowly grinding and hustling ⛽️, right? "Know shame, then be brave" is an ancient wisdom of 🀄️ China. I'll keep pushing forward in the field 📁 of computers.
+That's dope! 🙀 I got visitors on my page! Well, you gotta check me out then 👀. Currently, I may not have any achievements or skills 🤫, but I'm slowly grinding and hustling ⛽️, right? "Know shame, then be brave" is an ancient wisdom of 🀄️ China. I'll keep pushing forward in the field 📁 of computers.Recently,I got the chance to step into Generic Operational and Optimal Data Lab to study,hope I can become a good GOODer and live a better life.
 
 ## MY HONOR
 <p align="left">
@@ -14,7 +15,7 @@ That's dope! 🙀 I got visitors on my page! Well, you gotta check me out then �
     </a>
 </p>
 
-haha that is all, i am a rookie
+haha that is all, i am a rookie,haha!
 
 ## WHO I AM  
 😸 A Sophomore computer science student  
@@ -23,9 +24,12 @@ haha that is all, i am a rookie
 🎂 2004  
 
 ## WHAT I DIG  
+🔐Cybersecurity
+🦿Artificial Intelligence
+🕸️Web Devlopement
 🔢 Mathematical Modeling  
 👨‍💻 C++  C  Linux  ......  
-✔️ LeetCode  
+✔️ LeetCode (lazy haha) 
 🧮 Supercomputer（but it's even hard to begin）  
 
 ## WHAT I LIKE  
