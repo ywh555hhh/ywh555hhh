@@ -21,15 +21,17 @@ haha that is all, i am a rookie,haha!
 😸 A Sophomore computer science student  
 📍 Yichun, Jiangxi, China  
 🏫 Nanchang University  
-🎂 2004  
+🎂 2004   
+💟 [MyPage](https://good.ncu.edu.cn/~YiWH/)
+
 
 ## WHAT I DIG  
-🔐Cybersecurity
-🦿Artificial Intelligence
-🕸️Web Devlopement
+🔐Cybersecurity   
+🦿Artificial Intelligence   
+🕸️Web Devlopement   
 🔢 Mathematical Modeling  
 👨‍💻 C++  C  Linux  ......  
-✔️ LeetCode (lazy haha) 
+✔️ LeetCode (lazy haha)    
 🧮 Supercomputer（but it's even hard to begin）  
 
 ## WHAT I LIKE  
