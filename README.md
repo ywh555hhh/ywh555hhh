@@ -15,7 +15,8 @@ That's dope! ðŸ™€ I got visitors on my page! Well, you gotta check me out then ð
     </a>
     
 </p>
-I participated in [Generic Operational and Optimal Data Lab](https://good.ncu.edu.cn/) and our team won the second class prize
+
+I participated in [2024 ASC](http://www.asc-events.org/StudentChallenge/index.html) and our team won the second class prize
 <img src="homepage_media/asc24-ncu.jpg" alt="asc24-ncu" width="500">
 
 haha that is all, i am a rookie,haha!
