@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-<h6 align="center" style="color: #FF007F;">9.15 update</h6>
+<h6 align="center" style="color: #FF007F;">2024.4.21 update</h6>
 <h1 align="center" style="color: #FF007F;">Yo!🤜, I'm teapot1de</h1>
 <h3 align="center">A raw Sophomore computer science student from China</h3>
 <p align="center">
@@ -13,7 +13,10 @@ That's dope! 🙀 I got visitors on my page! Well, you gotta check me out then �
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=ywh555hhh&theme=oldie&row=2&column=3" alt="ywh555hhh" />
     </a>
+    
 </p>
+I participated in the 2024 ASC competition and our team won the second class prize
+<img src="homepage_media/asc24-ncu.jpg" alt="asc24-ncu" width="500">
 
 haha that is all, i am a rookie,haha!
 
@@ -25,11 +28,9 @@ haha that is all, i am a rookie,haha!
 💟 [MyPage](https://good.ncu.edu.cn/~YiWH/)
 
 
-## WHAT I DIG  
-🔐Cybersecurity   
+## TRY TO  
 🦿Artificial Intelligence   
-🕸️Web Devlopement   
-🔢 Mathematical Modeling  
+🕸️Web Devlopement (LITTLE)  
 👨‍💻 C++  C  Linux  ......  
 ✔️ LeetCode (lazy haha)    
 🧮 Supercomputer（but it's even hard to begin）  
@@ -111,7 +112,6 @@ haha that is all, i am a rookie,haha!
 ⬇️⬇️⬇️⬇️ 
 </h3>
  
-
 <p align="left"><img src="homepage_media/LoopyQueenCard.gif" alt="LoopyQueenCard" width="500"></p>
 
 <!--START_SECTION:waka-->
