@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=ywh555hhh&label=Profile%20views&color=0e75b6&style=flat" alt="ywh555hhh" />
 </p>
 
-That's dope! 🙀 I got visitors on my page! Well, you gotta check me out then 👀. Currently, I may not have any achievements or skills 🤫, but I'm slowly grinding and hustling ⛽️, right? "Know shame, then be brave" is an ancient wisdom of 🀄️ China. I'll keep pushing forward in the field 📁 of computers.Recently,I got the chance to step into Generic Operational and Optimal Data Lab to study,hope I can become a good GOODer and live a better life.
+That's dope! 🙀 I got visitors on my page! Well, you gotta check me out then 👀. Currently, I may not have any achievements or skills 🤫, but I'm slowly grinding and hustling ⛽️, right? "Know shame, then be brave" is an ancient wisdom of 🀄️ China. I'll keep pushing forward in the field 📁 of computers.Recently,I got the chance to step into [Generic Operational and Optimal Data Lab](https://good.ncu.edu.cn/) to study,hope I can leran a lot and live a better life.
 
 ## MY HONOR
 <p align="left">
@@ -15,7 +15,7 @@ That's dope! 🙀 I got visitors on my page! Well, you gotta check me out then �
     </a>
     
 </p>
-I participated in the 2024 ASC competition and our team won the second class prize
+I participated in [Generic Operational and Optimal Data Lab](https://good.ncu.edu.cn/) and our team won the second class prize
 <img src="homepage_media/asc24-ncu.jpg" alt="asc24-ncu" width="500">
 
 haha that is all, i am a rookie,haha!
