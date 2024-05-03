@@ -25,7 +25,7 @@ I participated in [2024 ASC](http://www.asc-events.org/StudentChallenge/index.ht
 I participate in [ALL IN OPEN SOURCE HACKATHON](https://events.mlh.io/events/11167-all-in-open-source-hackathon) and I with my teammates finished [our little project](https://devpost.com/software/food-donation-webapp) in 24 hours
 
 
-<img src="homepage_media/asc24-ncu.jpg" alt="asc24-ncu" width="500">
+<img src="homepage_media/image-empowerwave (5).gif" alt="asc24-ncu" width="500">
 
 haha that is all, i am a rookie,haha!
 
