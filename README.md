@@ -58,7 +58,7 @@ haha that is all, i am a rookie,haha!
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=teapot1de&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ywh555hhh&theme=rose" alt="ywh555hhh" /></p>
-            https://github.com/dashboard    
+           
                 
 ## MY CS TECHNOLOGY STACK
 <!-- 会的东西以及 正在学习的 东西-->
@@ -111,14 +111,7 @@ haha that is all, i am a rookie,haha!
     </a> 
 </p>
 
-<h3 align="left">Just Getting Started:</h3>
-<p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a>
+<h3 align="left">ROOKIE:</h3>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
@@ -132,14 +125,18 @@ haha that is all, i am a rookie,haha!
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
     </a> 
     <a href="vscode" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> 
-    </a> 
-    
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
-          
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="vscode" width="40" height="40"/> 
+    </a>   
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-     
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="python" width="40" height="40"/> 
+         </a>  
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="python" width="40" height="40"/> 
+
+          
+          
+          
+
+          
 ## WAYS TO REACH ME
 <!-- 联系方式 -->
 <h3 align="left">Yo, you can catch me through these means, homie!!!!!</h3>
