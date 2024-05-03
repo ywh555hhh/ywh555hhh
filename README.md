@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-<h6 align="center" style="color: #FF007F;">2024.4.21 update</h6>
+<h6 align="center" style="color: #FF007F;">2024.5.03 update</h6>
 <h1 align="center" style="color: #FF007F;">Yo!🤜, I'm teapot1de</h1>
 <h3 align="center">A raw Sophomore computer science student from China</h3>
 <p align="center">
@@ -8,7 +8,7 @@
 
 That's dope! 🙀 I got visitors on my page! Well, you gotta check me out then 👀. Currently, I may not have any achievements or skills 🤫, but I'm slowly grinding and hustling ⛽️, right? "Know shame, then be brave" is an ancient wisdom of 🀄️ China. I'll keep pushing forward in the field 📁 of computers.Recently,I got the chance to step into [Generic Operational and Optimal Data Lab](https://good.ncu.edu.cn/) to study,hope I can leran a lot and live a better life.
 
-## MY HONOR
+## MY JOURNEY
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=ywh555hhh&theme=oldie&row=2&column=3" alt="ywh555hhh" />
@@ -17,6 +17,9 @@ That's dope! 🙀 I got visitors on my page! Well, you gotta check me out then �
 </p>
 
 I participated in [2024 ASC](http://www.asc-events.org/StudentChallenge/index.html) and our team won the second class prize
+<img src="homepage_media/asc24-ncu.jpg" alt="asc24-ncu" width="500">
+
+I participate in [ALL IN OPEN SOURCE HACKATHON](https://events.mlh.io/events/11167-all-in-open-source-hackathon) and I with my teammates finished [our little project](https://devpost.com/software/food-donation-webapp) in 24 hours
 <img src="homepage_media/asc24-ncu.jpg" alt="asc24-ncu" width="500">
 
 haha that is all, i am a rookie,haha!
