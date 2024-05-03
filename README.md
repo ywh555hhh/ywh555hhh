@@ -99,14 +99,13 @@ haha that is all, i am a rookie,haha!
     </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="cplusplus" width="40" height="40"/> 
-    <
-    /a>                            
+    </a>                            
 </p>
 
-<h3 align="left">Anything else I can useANYTHING ELSE I CAN USE:</h3>
+<h3 align="left">ANYTHING ELSE I CAN USE:</h3>
 <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> 
     </a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     </a> 
