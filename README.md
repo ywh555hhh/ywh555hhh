@@ -19,6 +19,7 @@ That's dope! ðŸ™€ I got visitors on my page! Well, you gotta check me out then ð
 I participated in [2024 ASC](http://www.asc-events.org/StudentChallenge/index.html) and our team won the second class prize
 <img src="homepage_media/asc24-ncu.jpg" alt="asc24-ncu" width="500">
 
+
 I participate in [ALL IN OPEN SOURCE HACKATHON](https://events.mlh.io/events/11167-all-in-open-source-hackathon) and I with my teammates finished [our little project](https://devpost.com/software/food-donation-webapp) in 24 hours
 <img src="homepage_media/asc24-ncu.jpg" alt="asc24-ncu" width="500">
 
