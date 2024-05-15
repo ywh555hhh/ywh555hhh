@@ -27,6 +27,10 @@ I participate in [ALL IN OPEN SOURCE HACKATHON](https://events.mlh.io/events/111
 
 <img src="homepage_media/image-empowerwave (5).gif" alt="asc24-ncu" width="500">
 
+I signed up for Alibaba Cloud certification training camp and got the certificate
+
+<img src="homepage_media/docker-Certificate-1.png" alt="docker-Certificate-1" width="500">
+
 haha that is all, i am a rookie,haha!
 
 ## WHO I AM  
