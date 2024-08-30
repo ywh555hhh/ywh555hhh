@@ -3,7 +3,7 @@ name: Generate GitHub Metrics
 on:
   schedule: # 定期更新，例如每周一次
     - cron: '0 0 * * 0'
-  push: # 当推送到仓库时触发
+  push: # 每次代码推送时触发
     branches:
       - main
   workflow_dispatch: # 允许手动触发
@@ -14,10 +14,11 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.16personalities.svg # 生成的文件名
+          filename: metrics.plugin.steam.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_16personalities: yes
-          plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
-          plugin_16personalities_sections: personality, traits # 显示性格类型和特征
-          plugin_16personalities_scores: yes # 显示特征分数
+          plugin_steam: yes
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam_user: "76561198757948588" # 替换为你的Steam用户ID
+          plugin_steam_sections: recently-played,most-played # 你希望显示的部分
+          plugin_steam_achievements_limit: 2 # 设置成显示的成就数量
+          plugin_steam_games_limit: 5 # 设置成显示的游戏数量
