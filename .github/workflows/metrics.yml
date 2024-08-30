@@ -1,0 +1,23 @@
+name: Generate GitHub Metrics
+
+on:
+  schedule: # 定期更新，例如每周一次
+    - cron: '0 0 * * 0'
+  push: # 当推送到仓库时触发
+    branches:
+      - main
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.16personalities.svg # 生成的文件名
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_16personalities: yes
+          plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
+          plugin_16personalities_sections: personality, traits # 显示性格类型和特征
+          plugin_16personalities_scores: yes # 显示特征分数
