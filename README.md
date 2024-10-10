@@ -1,12 +1,12 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-<h6 align="center" style="color: #FF007F;">2024.5.03 update</h6>
+<h6 align="center" style="color: #FF007F;">2024.10.10 update</h6>
 <h1 align="center" style="color: #FF007F;">Yo!🤜, I'm teapot1de</h1>
-<h3 align="center">A raw Sophomore computer science student from China</h3>
+<h3 align="center">A raw junior computer science student from China</h3>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ywh555hhh&label=Profile%20views&color=0e75b6&style=flat" alt="ywh555hhh" />
 </p>
 
-That's dope! 🙀 I got visitors on my page! Well, you gotta check me out then 👀. Currently, I may not have any achievements or skills 🤫, but I'm slowly grinding and hustling ⛽️, right? "Know shame, then be brave" is an ancient wisdom of 🀄️ China. I'll keep pushing forward in the field 📁 of computers.Recently,I got the chance to step into [Generic Operational and Optimal Data Lab](https://good.ncu.edu.cn/) to study,hope I can leran a lot and live a better life.
+That's dope! 🙀 I got visitors on my page! Well, you gotta check me out then 👀. Currently, I may not have any achievements or skills 🤫, but I'm slowly grinding and hustling ⛽️, right? "Know shame, then be brave" is an ancient wisdom of 🀄️ China. I'll keep pushing forward in the field 📁 of computers.Recently,I got the chance to step into [Generic Operational and Optimal Data Lab](https://good.ncu.edu.cn/) to study,hope I can leran a lot and live a better life. I have recently been promoting the progress of open source in Nanchang University, and look forward to meeting more open source enthusiasts!
 
 ## MY JOURNEY
 <p align="left">
@@ -31,10 +31,14 @@ I signed up for Alibaba Cloud certification training camp and got the certificat
 
 <img src="homepage_media/docker-Certificate-1.png" alt="docker-Certificate-1" width="500">
 
-haha that is all, i am a rookie,haha!
+I became an open source campus ambassador for the OpenTenBase community at Nanchang University
+
+<img src="homepage_media/OpenTenBase-1.png" alt="OpenTenBase-Certificate" width="500">
+
+haha that is all, I am a rookie,haha!
 
 ## WHO I AM  
-😸 A Sophomore computer science student  
+😸 A Junior computer science student  
 📍 Yichun, Jiangxi, China  
 🏫 Nanchang University  
 🎂 2004   
@@ -42,11 +46,19 @@ haha that is all, i am a rookie,haha!
 
 
 ## TRY TO  
-🦿Artificial Intelligence   
-🕸️Web Devlopement (LITTLE)  
+🦿 Artificial Intelligence   
+
+🕸️ Web Devlopement (LITTLE)
+
+🦀 Rust 
+
 👨‍💻 C++  C  Linux  ......  
+
+🧮 Supercomputer（but it's even hard to begin）
+
+📢 Presentation ( a good pre)
+
 ✔️ LeetCode (lazy haha)    
-🧮 Supercomputer（but it's even hard to begin）  
 
 ## WHAT I LIKE  
 🏀 NBA ⛹ playit 💜Lakers 👑 LBJ 🌹 Drose  
@@ -67,42 +79,51 @@ haha that is all, i am a rookie,haha!
 ## MY CS TECHNOLOGY STACK
 <!-- 会的东西以及 正在学习的 东西-->
 
-<h3 align="left">My development environment</h3>
+<h3 align="left">My Development Environment</h3>
+<p align="left" style="font-size: 16px; color: #4A90E2;">
+    I proudly embrace macOS and Visual Studio Code as my go-to tools for development.
+</p>
 <p align="left"> 
-    <a href="www" target="_blank" rel="noreferrer"> 
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"alt="c" width="40" height="40" />      
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>     
+    </a>
+    <a href="https://www.apple.com" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="Apple macOS" width="40" height="40"/>
+    </a>       
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="40" height="40" />      
     </a>  
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="cplusplus" width="40" height="40"/>     
+    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>     
     </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" alt="cplusplus" width="40" height="40"/>     
-    </a>
-     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="cplusplus" width="40" height="40"/>     
-    </a>
-           
-          
+    <a href="https://www.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" alt="Windows 11" width="40" height="40"/>     
+    </a>       
 </p>
 
 
-<h3 align="left">LANGUAGE
-:</h3>
+<h3 align="left">Languages I Use</h3>
+<p align="left">
+    I mostly work with Python and system-level programming languages.
+</p>
 <p align="left"> 
+    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> 
+    </a> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
     </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
     </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="cplusplus" width="40" height="40"/> 
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
     </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="cplusplus" width="40" height="40"/> 
+    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="cplusplus" width="40" height="40"/> 
+    <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
     </a>                            
 </p>
 
@@ -116,6 +137,7 @@ haha that is all, i am a rookie,haha!
 </p>
 
 <h3 align="left">ROOKIE:</h3>
+<p align="left">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
@@ -128,19 +150,26 @@ haha that is all, i am a rookie,haha!
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
     </a> 
-    <a href="vscode" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="vscode" width="40" height="40"/> 
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
     </a>   
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="python" width="40" height="40"/> 
-         </a>  
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="python" width="40" height="40"/> 
-
-          
-          
-          
-
-          
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> 
+    </a>  
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40"/>
+    </a>
+    <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
+    </a>
+    <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+    </a>
+</p>
+                            
 ## WAYS TO REACH ME
 <!-- 联系方式 -->
 <h3 align="left">Yo, you can catch me through these means, homie!!!!!</h3>
