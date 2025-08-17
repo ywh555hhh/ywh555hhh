@@ -1,371 +1,195 @@
-<!-- Header with modern gradient background -->
-<div align="center">
-  
-  <!-- Animated header with gradient -->
-  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=300&section=header&text=Yo!%20I'm%20teapot1de%20🤜&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=A%20raw%20junior%20CS%20student%20grinding%20in%20China%20🇨🇳&descAlignY=60&descSize=18"/>
-  
-  <!-- Profile GIF with modern border -->
-  <div style="margin: -50px 0 30px 0;">
-    <img src="https://i.imgur.com/A6bWGFl.gif" width="150" style="border-radius: 50%; border: 4px solid #FF007F; box-shadow: 0 8px 32px rgba(255, 0, 127, 0.3);"/>
-  </div>
-  
-  <!-- Modern update badge -->
-  <img src="https://img.shields.io/badge/Last%20Update-2024.10.10-FF007F?style=for-the-badge&logo=github&logoColor=white" alt="Last Update"/>
-  
-  <!-- Enhanced profile views -->
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=ywh555hhh&label=Profile%20views&color=ff007f&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ywh555hhh?label=Followers&style=for-the-badge&color=ff007f" alt="Followers" />
-  
-</div>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<h6 align="center" style="color: #FF007F;">2024.10.10 update</h6>
+<h1 align="center" style="color: #FF007F;">Yo!🤜, I'm teapot1de</h1>
+<h3 align="center">A raw junior computer science student from China</h3>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ywh555hhh&label=Profile%20views&color=0e75b6&style=flat" alt="ywh555hhh" />
+</p>
 
-<!-- Divider with animated typing -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF007F&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+space!+🚀;Grinding+%26+hustling+in+CS+field+⚡;Know+shame%2C+then+be+brave+💪" alt="Typing SVG" />
-</div>
+That's dope! 🙀 I got visitors on my page! Well, you gotta check me out then 👀. Currently, I may not have any achievements or skills 🤫, but I'm slowly grinding and hustling ⛽️, right? "Know shame, then be brave" is an ancient wisdom of 🀄️ China. I'll keep pushing forward in the field 📁 of computers.Recently,I got the chance to step into [Generic Operational and Optimal Data Lab](https://good.ncu.edu.cn/) to study,hope I can leran a lot and live a better life. I have recently been promoting the progress of open source in Nanchang University, and look forward to meeting more open source enthusiasts!
 
-<!-- About section with modern card styling -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        
-  ### 🎯 About Me
-  
-  > *That's dope! 🙀 I got visitors on my page! Well, you gotta check me out then 👀*
-  
-  Currently grinding and hustling ⛽️ as a junior CS student. While I may not have tons of achievements yet 🤫, I'm all about that continuous learning vibe! Following the ancient Chinese wisdom: **"知耻而后勇"** *(Know shame, then be brave)* 💪
-  
-  🔬 **Research Journey**: Recently joined the [Generic Operational and Optimal Data Lab](https://good.ncu.edu.cn/) - excited to dive deep into cutting-edge research!
-  
-  🌟 **Open Source Advocate**: Promoting open source culture at Nanchang University, always looking to connect with fellow enthusiasts!
-        
-      </td>
-    </tr>
-  </table>
-</div>
+## MY JOURNEY
+<p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=ywh555hhh&theme=oldie&row=2&column=3" alt="ywh555hhh" />
+    </a>
+    
+</p>
 
----
+I participated in [2024 ASC](http://www.asc-events.org/StudentChallenge/index.html) and our team won the second class prize
 
-## 🏆 MY JOURNEY & ACHIEVEMENTS
 
-<div align="center">
-  
-  <!-- Enhanced GitHub Trophy with modern styling -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ywh555hhh&theme=radical&no-frame=true&column=3&row=2&margin-w=15&margin-h=15" alt="Trophy Collection" />
-  
-</div>
+<img src="homepage_media/asc24-ncu.jpg" alt="asc24-ncu" width="500">
 
-### 🎖️ Recent Highlights
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      
-  **🏅 2024 ASC Competition**
-  - 🥈 **Second Class Prize** at [ASC Student Supercomputer Challenge](http://www.asc-events.org/StudentChallenge/index.html)
-  - Team achievement in high-performance computing
-  
-  <img src="homepage_media/asc24-ncu.jpg" alt="ASC 2024 Achievement" width="400" style="border-radius: 10px; margin: 10px 0;"/>
-      
-    </td>
-    <td width="50%" valign="top">
-      
-  **💻 Open Source Hackathon**
-  - 🚀 Completed [Food Donation WebApp](https://devpost.com/software/food-donation-webapp) in 24 hours
-  - Participated in [ALL IN OPEN SOURCE HACKATHON](https://events.mlh.io/events/11167-all-in-open-source-hackathon)
-  
-  <img src="homepage_media/image-empowerwave (5).gif" alt="Hackathon Project" width="400" style="border-radius: 10px; margin: 10px 0;"/>
-      
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      
-  **☁️ Cloud Certification**
-  - ✅ **Docker Certification** from Alibaba Cloud
-  - Completed advanced training camp
-  
-  <img src="homepage_media/docker-Certificate-1.png" alt="Docker Certificate" width="400" style="border-radius: 10px; margin: 10px 0;"/>
-      
-    </td>
-    <td width="50%" valign="top">
-      
-  **🌟 Community Leadership**
-  - 📢 **Open Source Campus Ambassador** for OpenTenBase
-  - Leading open source initiatives at Nanchang University
-  
-  <img src="homepage_media/OpenTenBase-1.png" alt="OpenTenBase Ambassador" width="400" style="border-radius: 10px; margin: 10px 0;"/>
-      
-    </td>
-  </tr>
-</table>
+I participate in [ALL IN OPEN SOURCE HACKATHON](https://events.mlh.io/events/11167-all-in-open-source-hackathon) and I with my teammates finished [our little project](https://devpost.com/software/food-donation-webapp) in 24 hours
 
-<div align="center">
-  <em>Just a rookie grinding hard, but we're getting there! 💪</em>
-</div>
 
----
+<img src="homepage_media/image-empowerwave (5).gif" alt="asc24-ncu" width="500">
 
-## 👨‍💻 WHO I AM
+I signed up for Alibaba Cloud certification training camp and got the certificate
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        
-  ### 📍 Personal Info
-  
-  <img src="https://img.shields.io/badge/Status-Junior%20CS%20Student-FF007F?style=for-the-badge&logo=academic&logoColor=white" alt="Status"/>
-  
-  🌏 **Location**: Yichun, Jiangxi, China  
-  🏫 **University**: Nanchang University  
-  🎂 **Born**: 2004  
-  💟 **Portfolio**: [MyPage](https://good.ncu.edu.cn/~YiWH/)
-        
-      </td>
-      <td align="center" width="50%">
-        
-  ### 🎯 WHAT I'M PURSUING
-  
-  🦿 **Artificial Intelligence**  
-  🕸️ **Web Development** *(getting there!)*  
-  🦀 **Rust Programming**  
-  👨‍💻 **C++ • C • Linux**  
-  🧮 **High Performance Computing**  
-  📢 **Tech Presentations**  
-  ✔️ **LeetCode** *(when I'm not lazy 😅)*
-        
-      </td>
-    </tr>
-  </table>
-</div>
+<img src="homepage_media/docker-Certificate-1.png" alt="docker-Certificate-1" width="500">
 
-### 🎮 WHAT I LOVE
+I became an open source campus ambassador for the OpenTenBase community at Nanchang University
 
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/🏀_NBA-Lakers_Fan-552583?style=for-the-badge&logo=nba&logoColor=gold" alt="NBA"/>
-  <img src="https://img.shields.io/badge/⌨️_eSports-LPL_FPX-1e90ff?style=for-the-badge&logo=riot&logoColor=white" alt="Gaming"/>
-  <img src="https://img.shields.io/badge/🦫_Loopy-Pink_Vibes-FF69B4?style=for-the-badge" alt="Loopy"/>
-  <img src="https://img.shields.io/badge/🎭_Arts-Literature-8A2BE2?style=for-the-badge&logo=pen&logoColor=white" alt="Arts"/>
-  
-</div>
+<img src="homepage_media/OpenTenBase-1.png" alt="OpenTenBase-Certificate" width="500">
 
----  
+haha that is all, I am a rookie,haha!
 
-## 📊 MY CODING STATS
+## WHO I AM  
+😸 A Junior computer science student  
+📍 Yichun, Jiangxi, China  
+🏫 Nanchang University  
+🎂 2004   
+💟 [MyPage](https://good.ncu.edu.cn/~YiWH/)
 
-<div align="center">
-  
-  <!-- GitHub Stats Cards with modern layout -->
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ywh555hhh&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF007F&icon_color=FF007F&text_color=ffffff" alt="GitHub Stats" width="450"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ywh555hhh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF007F&text_color=ffffff" alt="Top Languages" width="350"/>
-      </td>
-    </tr>
-  </table>
-  
-  <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ywh555hhh&theme=radical&hide_border=true&background=0D1117&stroke=FF007F&ring=FF007F&fire=FF007F&currStreakLabel=FF007F" alt="Contribution Streak" width="800"/>
-  
-  <!-- WakaTime Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=teapot1de&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF007F&text_color=ffffff" alt="Coding Time" width="500"/>
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ywh555hhh&bg_color=0D1117&color=ffffff&line=FF007F&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
-  
-</div>
 
----
-## 🛠️ MY TECH ARSENAL
+## TRY TO  
+🦿 Artificial Intelligence   
 
-### 💻 Development Environment
+🕸️ Web Devlopement (LITTLE)
 
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/macOS-Primary-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-Main_Editor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-Secondary-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  
-</div>
+🦀 Rust 
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="150">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="60"/>
-        <br><strong>macOS</strong>
-      </td>
-      <td align="center" width="150">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60"/>
-        <br><strong>Linux</strong>
-      </td>
-      <td align="center" width="150">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60"/>
-        <br><strong>VS Code</strong>
-      </td>
-      <td align="center" width="150">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="60"/>
-        <br><strong>IntelliJ</strong>
-      </td>
-      <td align="center" width="150">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="60"/>
-        <br><strong>Windows 11</strong>
-      </td>
-    </tr>
-  </table>
-</div>
+👨‍💻 C++  C  Linux  ......  
 
-### 🚀 Languages I Rock With
+🧮 Supercomputer（but it's even hard to begin）
 
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/Python-Main-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-Learning-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-Strong-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-Familiar-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-Comfortable-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  
-</div>
+📢 Presentation ( a good pre)
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="60"/>
-        <br><strong>Rust</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60"/>
-        <br><strong>C</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60"/>
-        <br><strong>C++</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60"/>
-        <br><strong>Python</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60"/>
-        <br><strong>JavaScript</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60"/>
-        <br><strong>Java</strong>
-      </td>
-    </tr>
-  </table>
-</div>
+✔️ LeetCode (lazy haha)    
 
-### 🧰 Tools & Technologies
+## WHAT I LIKE  
+🏀 NBA ⛹ playit 💜Lakers 👑 LBJ 🌹 Drose  
+⌨️ LPL 🐦‍🔥 FPX 🐶 lwx  
+🦫 loopy  
+🎭 Literature and Art  
 
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="33%">
-        
-  **🗄️ Databases**
-  
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-        
-      </td>
-      <td valign="top" width="33%">
-        
-  **☁️ DevOps & Cloud**
-  
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-        
-      </td>
-      <td valign="top" width="33%">
-        
-  **🎨 Design & Others**
-  
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
-        
-      </td>
-    </tr>
-  </table>
-</div>
+## MY STATS
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ywh555hhh&theme=rose)](https://github.com/anuraghazra/github-readme-stats)    
 
-### 🌱 Currently Exploring
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ywh555hhh&count_private=true&show_icons=true&theme=rose)](https://github.com/ywh555hhh/github-readme-stats)
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="150">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60"/>
-        <br><strong>MySQL</strong>
-      </td>
-      <td align="center" width="150">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60"/>
-        <br><strong>Node.js</strong>
-      </td>
-      <td align="center" width="150">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="60"/>
-        <br><strong>MATLAB</strong>
-      </td>
-    </tr>
-  </table>
-</div>
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=teapot1de&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
 
----
-## 🤝 LET'S CONNECT!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ywh555hhh&theme=rose" alt="ywh555hhh" /></p>
+           
+                
+## MY CS TECHNOLOGY STACK
+<!-- 会的东西以及 正在学习的 东西-->
 
-<div align="center">
-  
-  ### 💬 Yo, hit me up through these channels, homie! 
-  
-  <a href="https://twitter.com/nnnyiweihandful" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://leetcode.cn/u/ywh555hhh/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://good.ncu.edu.cn/~YiWH/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF007F?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-  </a>
-  
-  <br><br>
-  
-  <!-- Social media stats -->
-  <img src="https://img.shields.io/twitter/follow/nnnyiweihandful?logo=twitter&style=for-the-badge&color=1da1f2" alt="Twitter Follow"/>
-  
-</div>
+<h3 align="left">My Development Environment</h3>
+<p align="left" style="font-size: 16px; color: #4A90E2;">
+    I proudly embrace macOS and Visual Studio Code as my go-to tools for development.
+</p>
+<p align="left"> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>     
+    </a>
+    <a href="https://www.apple.com" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="Apple macOS" width="40" height="40"/>
+    </a>       
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="40" height="40" />      
+    </a>  
+    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>     
+    </a>
+    <a href="https://www.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" alt="Windows 11" width="40" height="40"/>     
+    </a>       
+</p>
 
----
-## 🎉 BONUS VIBES
 
-<div align="center">
-  
-  ### 👀 Check out this loopy goodness below! ⬇️
-  
-  <img src="homepage_media/LoopyQueenCard.gif" alt="Loopy Queen Card" width="400" style="border-radius: 15px; border: 3px solid #FF007F;"/>
-  
-  <br><br>
-  
-  <!-- WakaTime coding activity -->
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
-  
-  <br>
-  
-  <!-- Footer with modern styling -->
-  <img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70"/>
-  
-</div>
+<h3 align="left">Languages I Use</h3>
+<p align="left">
+    I mostly work with Python and system-level programming languages.
+</p>
+<p align="left"> 
+    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
+    </a>                            
+</p>
+
+<h3 align="left">ANYTHING ELSE I CAN USE:</h3>
+<p align="left"> 
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    </a> 
+</p>
+
+<h3 align="left">ROOKIE:</h3>
+<p align="left">
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    </a>
+    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+    </a>   
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> 
+    </a>  
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40"/>
+    </a>
+    <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
+    </a>
+    <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+    </a>
+</p>
+                            
+## WAYS TO REACH ME
+<!-- 联系方式 -->
+<h3 align="left">Yo, you can catch me through these means, homie!!!!!</h3>
+<p align="left">
+<a href="https://twitter.com/nnnyiweihandful" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nnnyiweihandful" height="30" width="40" /></a>
+<a href="https://leetcode.cn/u/ywh555hhh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ywh555hhh" height="30" width="40" /></a>
+</p>
+
+
+## WHAT IS MORE ......
+
+
+<h3 align="left">Holla at your boy, take a look and see below  
+⬇️⬇️⬇️⬇️ 
+</h3>
+ 
+<p align="left"><img src="homepage_media/LoopyQueenCard.gif" alt="LoopyQueenCard" width="500"></p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **ywh555hhh/ywh555hhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
