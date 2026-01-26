@@ -1,0 +1,39 @@
+name: Metrics
+
+on:
+
+  schedule: [{cron: "0 0 * * *"}] # 每天凌晨自动更新
+
+  workflow_dispatch: # 支持你手动点击按钮更新
+
+  push: {branches: ["master", "main"]} # 每次提交代码也更新
+
+
+
+jobs:
+
+  github-metrics:
+
+    runs-on: ubuntu-latest
+
+    permissions:
+
+      contents: write
+
+    steps:
+
+      - uses: lowlighter/metrics@latest
+
+        with:
+
+          token: ${{ secrets.METRICS_TOKEN }} # 机器人会去保险箱拿令牌
+
+          user: ywh555hhh
+
+          template: classic
+
+          base: header, community, repositories, metadata
+
+          config_timezone: Asia/Shanghai    # 设置时区
+
+          plugin_languages: yes             # 开启语言统计插件
