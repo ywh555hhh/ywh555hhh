@@ -1,39 +1,31 @@
 name: Metrics
-
 on:
-
-  schedule: [{cron: "0 0 * * *"}] # 每天凌晨自动更新
-
-  workflow_dispatch: # 支持你手动点击按钮更新
-
-  push: {branches: ["master", "main"]} # 每次提交代码也更新
-
-
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
 
 jobs:
-
   github-metrics:
-
     runs-on: ubuntu-latest
-
     permissions:
-
       contents: write
-
     steps:
-
       - uses: lowlighter/metrics@latest
-
         with:
-
-          token: ${{ secrets.METRICS_TOKEN }} # 机器人会去保险箱拿令牌
-
+          token: ${{ secrets.METRICS_TOKEN }}
           user: ywh555hhh
-
           template: classic
-
           base: header, community, repositories, metadata
-
-          config_timezone: Asia/Shanghai    # 设置时区
-
-          plugin_languages: yes             # 开启语言统计插件
+          config_timezone: Asia/Shanghai
+          
+          # --- 原有的语言插件 ---
+          plugin_languages: yes
+          
+          # --- AniList 全量展示插件配置 ---
+          plugin_anilist: yes
+          plugin_anilist_user: wayneE            # 你的 AniList ID
+          plugin_anilist_medias: anime, manga     # 同时展示动画和漫画
+          plugin_anilist_sections: favorites, watching, reading, characters # 开启所有板块
+          plugin_anilist_limit: 3                 # 媒体项目展示数量（建议 2-3，否则图片太长）
+          plugin_anilist_limit_characters: 22     # 喜欢的角色展示数量（22 个正好是一大排）
+          plugin_anilist_shuffle: yes            # 每次更新时随机打乱展示顺序，保持新鲜感
