@@ -5,7 +5,7 @@ on:
   push: {branches: ["master", "main"]}
 
 jobs:
-  # 左侧列：技术 + 社交 + 生活
+  # 左侧列：技术 + 社交 + 轻量展示
   left-column:
     runs-on: ubuntu-latest
     permissions:
@@ -29,11 +29,11 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
           
-          # 最近活动（优化后）
+          # 最近活动（优化数据量）
           plugin_activity: yes
           plugin_activity_limit: 5
-          plugin_activity_load: 500
-          plugin_activity_days: 60
+          plugin_activity_load: 200
+          plugin_activity_days: 30
           plugin_activity_visibility: all
           
           # 技术标签
@@ -46,22 +46,23 @@ jobs:
           plugin_people_types: followers, following
           plugin_people_limit: 24
           
-          # MBTI 性格
-          plugin_16personalities: yes
-          plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
-          plugin_16personalities_sections: personality, traits
+          # 最近 Star 的仓库（新增）
+          plugin_stars: yes
+          plugin_stars_limit: 3
           
-          # 勋章墙
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
+          # 推荐仓库（新增）
+          plugin_repositories: yes
+          plugin_repositories_starred: 3
           
-          # 编码冷知识（优化后）
+          # 随机名言（新增）
+          plugin_fortune: yes
+          
+          # 编码习惯（优化数据量）
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
-          plugin_habits_from: 300
-          plugin_habits_days: 30
+          plugin_habits_from: 100
+          plugin_habits_days: 14
           
           # 杰出开源贡献
           plugin_notable: yes
@@ -72,7 +73,7 @@ jobs:
           plugin_music_playlist: ${{ secrets.SPOTIFY_EMBED_URL }}
           plugin_music_limit: 4
 
-  # 右侧列：娱乐（只放 AniList 和 Steam）
+  # 右侧列：娱乐（保持不变）
   right-column:
     runs-on: ubuntu-latest
     permissions:
