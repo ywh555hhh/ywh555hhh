@@ -29,10 +29,6 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
           
-          # 技术标签
-          plugin_topics: yes
-          plugin_topics_mode: mastered
-          plugin_topics_limit: 10
           
           # People 插件
           plugin_people: yes
@@ -78,13 +74,13 @@ jobs:
           plugin_anilist_user: wayneE
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, characters
-          plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 24
+          plugin_anilist_limit: 6
+          plugin_anilist_limit_characters: 33
           
           # Steam 游戏统计
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_user: ${{ secrets.STEAM_USER_ID }}
-          plugin_steam_sections: player, most-played, recently-played
+          plugin_steam_sections: player, recently-played
           plugin_steam_games_limit: 3
           plugin_steam_recent_games_limit: 2
