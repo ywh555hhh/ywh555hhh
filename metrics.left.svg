@@ -283,29 +283,29 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">影色舞</div>
-                                    <div class="artist">MyGO!!!!!</div>
+                                    <div class="name">EXPOSE ‘Burn out!!!’</div>
+                                    <div class="artist">RAISE A SUILEN</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">運命の華</div>
+                                    <div class="name">空の箱 - 井芹仁菜、河原木桃香</div>
                                     <div class="artist">TOGENASHI TOGEARI</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">聿日箋秋</div>
-                                    <div class="artist">MyGO!!!!!</div>
+                                    <div class="name">Ave Mujica</div>
+                                    <div class="artist">Ave Mujica</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">A DECLARATION OF ×××</div>
-                                    <div class="artist">RAISE A SUILEN</div>
+                                    <div class="name">雑踏、僕らの街</div>
+                                    <div class="artist">TOGENASHI TOGEARI</div>
                                 </div>
                             </div>
                         </div>
@@ -1581,7 +1581,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Feb 2026, 13:29:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Feb 2026, 13:33:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
