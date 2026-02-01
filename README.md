@@ -14,18 +14,6 @@ That's dope! 🙀 I got visitors on my page! Well, you gotta check me out then �
 🏫 University Student  
   
 
-## TRY TO  
-🦿 Artificial Intelligence   
-
-🕸️ Web Devlopement (LITTLE)
-
-🦀 Rust 
-
-👨‍💻 C++  C  Linux  ......  
-
-🧮 Supercomputer（but it's even hard to begin）
-
-📢 Presentation ( a good pre)
 
 ✔️ LeetCode (lazy haha)    
 
