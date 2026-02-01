@@ -5,7 +5,7 @@ on:
   push: {branches: ["master", "main"]}
 
 jobs:
-  # 左侧列：技术 + 社交 + 轻量展示
+  # 左侧列：技术 + 社交 + 轻量展示 + 游戏统计
   left-column:
     runs-on: ubuntu-latest
     permissions:
@@ -29,15 +29,22 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
           
-          
           # People 插件
           plugin_people: yes
           plugin_people_types: followers, following
           plugin_people_limit: 24
           
-          # 最近 Star 的仓库（新增）
+          # 最近 Star 的仓库
           plugin_stars: yes
           plugin_stars_limit: 3
+          
+          # Steam 游戏统计（移到左侧）
+          plugin_steam: yes
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam_user: ${{ secrets.STEAM_USER_ID }}
+          plugin_steam_sections: player, recently-played
+          plugin_steam_games_limit: 3
+          plugin_steam_recent_games_limit: 2
           
           # 杰出开源贡献
           plugin_notable: yes
@@ -48,7 +55,7 @@ jobs:
           plugin_music_playlist: ${{ secrets.SPOTIFY_EMBED_URL }}
           plugin_music_limit: 4
 
-  # 右侧列：娱乐（保持不变）
+  # 右侧列：动漫（只有 AniList）
   right-column:
     runs-on: ubuntu-latest
     permissions:
@@ -69,11 +76,3 @@ jobs:
           plugin_anilist_sections: favorites, characters
           plugin_anilist_limit: 6
           plugin_anilist_limit_characters: 33
-          
-          # Steam 游戏统计
-          plugin_steam: yes
-          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          plugin_steam_user: ${{ secrets.STEAM_USER_ID }}
-          plugin_steam_sections: player, recently-played
-          plugin_steam_games_limit: 3
-          plugin_steam_recent_games_limit: 2
