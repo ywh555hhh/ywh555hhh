@@ -5,7 +5,7 @@ on:
   push: {branches: ["master", "main"]}
 
 jobs:
-  # 左侧列：技术 + 社交
+  # 左侧列：技术 + 社交 + 生活
   left-column:
     runs-on: ubuntu-latest
     permissions:
@@ -29,9 +29,12 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
           
-          # 最近活动
+          # 最近活动（优化后）
           plugin_activity: yes
           plugin_activity_limit: 5
+          plugin_activity_load: 500
+          plugin_activity_days: 60
+          plugin_activity_visibility: all
           
           # 技术标签
           plugin_topics: yes
@@ -47,8 +50,29 @@ jobs:
           plugin_16personalities: yes
           plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
           plugin_16personalities_sections: personality, traits
+          
+          # 勋章墙
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+          
+          # 编码冷知识（优化后）
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          plugin_habits_from: 300
+          plugin_habits_days: 30
+          
+          # 杰出开源贡献
+          plugin_notable: yes
+          
+          # Spotify 音乐
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_playlist: ${{ secrets.SPOTIFY_EMBED_URL }}
+          plugin_music_limit: 4
 
-  # 右侧列：生活 + 娱乐
+  # 右侧列：娱乐（只放 AniList 和 Steam）
   right-column:
     runs-on: ubuntu-latest
     permissions:
@@ -62,20 +86,6 @@ jobs:
           base: ""
           config_timezone: Asia/Shanghai
           
-          # Spotify 音乐（播放列表随机歌曲）
-          plugin_music: yes
-          plugin_music_provider: spotify
-          plugin_music_playlist: ${{ secrets.SPOTIFY_EMBED_URL }}
-          plugin_music_limit: 4
-          
-          # Steam 游戏统计
-          plugin_steam: yes
-          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          plugin_steam_user: ${{ secrets.STEAM_USER_ID }}
-          plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_games_limit: 3
-          plugin_steam_recent_games_limit: 2
-          
           # AniList 动漫展示
           plugin_anilist: yes
           plugin_anilist_user: wayneE
@@ -84,14 +94,10 @@ jobs:
           plugin_anilist_limit: 2
           plugin_anilist_limit_characters: 22
           
-          # 勋章墙
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          
-          # 杰出开源贡献
-          plugin_notable: yes
-          
-          # 编码冷知识
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
+          # Steam 游戏统计
+          plugin_steam: yes
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam_user: ${{ secrets.STEAM_USER_ID }}
+          plugin_steam_sections: player, most-played, recently-played
+          plugin_steam_games_limit: 3
+          plugin_steam_recent_games_limit: 2
