@@ -283,6 +283,13 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
+                                    <div class="name">R·I·O·T</div>
+                                    <div class="artist">RAISE A SUILEN</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
                                     <div class="name">春日影 (MyGO!!!!! ver.)</div>
                                     <div class="artist">MyGO!!!!!</div>
                                 </div>
@@ -290,22 +297,15 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Re:Re:</div>
-                                    <div class="artist">kessoku band</div>
+                                    <div class="name">歌いましょう鳴らしましょう</div>
+                                    <div class="artist">MyGO!!!!!</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">雑踏、僕らの街</div>
-                                    <div class="artist">TOGENASHI TOGEARI</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">A DECLARATION OF ×××</div>
-                                    <div class="artist">RAISE A SUILEN</div>
+                                    <div class="name">FIRE BIRD</div>
+                                    <div class="artist">Roselia</div>
                                 </div>
                             </div>
                         </div>
@@ -1744,7 +1744,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Feb 2026, 13:47:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Feb 2026, 13:52:50 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
