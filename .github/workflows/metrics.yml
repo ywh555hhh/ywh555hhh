@@ -39,13 +39,6 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 3
           
-          # 推荐仓库（新增）
-          plugin_repositories: yes
-          plugin_repositories_starred: 3
-          
-          # 随机名言（新增）
-          plugin_fortune: yes
-          
           # 杰出开源贡献
           plugin_notable: yes
           
