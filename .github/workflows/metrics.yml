@@ -29,13 +29,6 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
           
-          # 最近活动（优化数据量）
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_load: 200
-          plugin_activity_days: 30
-          plugin_activity_visibility: all
-          
           # 技术标签
           plugin_topics: yes
           plugin_topics_mode: mastered
@@ -56,13 +49,6 @@ jobs:
           
           # 随机名言（新增）
           plugin_fortune: yes
-          
-          # 编码习惯（优化数据量）
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
-          plugin_habits_from: 100
-          plugin_habits_days: 14
           
           # 杰出开源贡献
           plugin_notable: yes
@@ -91,9 +77,9 @@ jobs:
           plugin_anilist: yes
           plugin_anilist_user: wayneE
           plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: favorites, watching, reading, characters
+          plugin_anilist_sections: favorites, characters
           plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 22
+          plugin_anilist_limit_characters: 24
           
           # Steam 游戏统计
           plugin_steam: yes
