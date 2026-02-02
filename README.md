@@ -3,6 +3,7 @@
 ## 📚 About Me
 Computer Science Student at Nanchang University (NCU)  
 Passionate about technology and coding
+<img src="https://ywh555hhh.github.io/EmoGdream/stickers/anon/anon_heart.webp" alt="anon_heart.webp" width="64" align="absmiddle">
 
 ## 🎯 Journey
 - 🏫 **Sep 2022** - Started Computer Science at NCU
