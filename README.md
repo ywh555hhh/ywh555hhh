@@ -17,7 +17,7 @@ I focus on combining my creativity with AI capabilities to build fun and useful 
 * **[OshiGrid](https://oshigrid.me/)**: A platform helping users curate and share their preferences (The "Grid" for your favorites).
 * **[EmoGDream](https://ywh555hhh.github.io/EmoGdream/)**: An "Oshi" collection site that allows you to easily embed *BanG Dream!* sticker packs anywhere.
 * **The "Sakiko" Theory**: I proposed the viral theory *"Togawa Sakiko is the God of Python"*. <img src="https://ywh555hhh.github.io/EmoGdream/stickers/sakiko/sakiko_pleased.png" alt="sakiko_pleased.png" width="24" align="absmiddle">
-* 📺 [Watch the Podcast on Bilibili](https://www.bilibili.com/video/BV1pk6hB4EHj/?share_source=copy_web&vd_source=8ac31bd0d04ec47f326f7c4a326b5f1c)
+* <img src="https://ywh555hhh.github.io/EmoGdream/stickers/nyamu/nyamu_good_evening_meow.webp" alt="nyamu_good_evening_meow.webp" width="24" align="absmiddle"> [Watch the Podcast on Bilibili](https://www.bilibili.com/video/BV1pk6hB4EHj/?share_source=copy_web&vd_source=8ac31bd0d04ec47f326f7c4a326b5f1c)
 
 
 
