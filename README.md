@@ -30,7 +30,7 @@ I am dedicated to contributing to the community and empowering others:
 
 ## <img src="https://ywh555hhh.github.io/EmoGdream/stickers/nina/nina_rub_head.webp" alt="nina_rub_head.webp" width="32" align="absmiddle"> Career & Ambitions
 
-* **Current Role**: Intern at **Baidu BMU** (Jan 2026 – Present).
+* **Current Role**: Intern at **Baidu BMU** (Jan 2026 – Apr 2026).
 * **Goal**:  A highly self-driven professional actively seeking opportunities in AI Agent development and AI Native roles, ideally within startup environments. I also serve as an AI Efficiency Consultant and am able to take on diverse roles in entrepreneurial projects focused on AI chat and AI companionship businesses — all terms are negotiable for the right compensation. <img src="https://ywh555hhh.github.io/EmoGdream/stickers/ryo/ryo_shy.webp" alt="ryo_shy.webp" width="24" align="absmiddle">
 
 ## <img src="https://ywh555hhh.github.io/EmoGdream/stickers/tomori/tomori_peek.webp" alt="tomori_peek.webp" width="32" align="absmiddle"> Personal & Fun
