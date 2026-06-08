@@ -11,20 +11,18 @@ ships small, **tasteful** things on the web. <img src="https://ywh555hhh.github.
 
 ---
 
-## <img src="https://ywh555hhh.github.io/EmoGdream/stickers/nina/nina_rub_head.webp" width="32" align="absmiddle"> Career / 求职
+## <img src="https://ywh555hhh.github.io/EmoGdream/stickers/nina/nina_rub_head.webp" width="32" align="absmiddle"> Career
 
 I am pivoting into **AI inference infrastructure** as a deliberate
 specialization. My accumulated foundation to build on:
 
 * **Full-stack engineering** — Vue / TypeScript / Node, with a strong
   sense of product taste and visual polish.
-* **Open source** — Founder of **[CS4NCU](https://cs4ncu.space/)**;
-  contributor to **[AstrBot](https://astrbot.app/)** (docs → core).
 * **LLM-native workflow** — power user of Agent Skills, MCP, and
   AI-driven dev tools; long-time SillyTavern veteran.
 * **Currently interning at Baidu BMU** (Jan – Apr 2026).
 
-**Looking for**: A **日常实习** in the **Greater Bay Area** —
+**Looking for**: A **Intern** in the **Greater Bay Area** —
 **Guangzhou / Shenzhen** preferred, **remote also welcome**. AI infra
 / inference / serving track.
 
@@ -32,7 +30,7 @@ specialization. My accumulated foundation to build on:
 
 ---
 
-## <img src="https://ywh555hhh.github.io/EmoGdream/stickers/hitori/hitori_tap.webp" width="32" align="absmiddle"> Beyond Work / 兴趣
+## <img src="https://ywh555hhh.github.io/EmoGdream/stickers/hitori/hitori_tap.webp" width="32" align="absmiddle"> Beyond Work
 
 Outside of AI infra, I am a **vibe-coding full-stack developer** —
 shipping small, **tasteful** things on the web:
