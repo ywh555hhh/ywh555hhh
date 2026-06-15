@@ -70,4 +70,4 @@ jobs:
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, characters
           plugin_anilist_limit: 9
-          plugin_anilist_limit_characters: 33
+          plugin_anilist_limit_characters: 77
