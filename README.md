@@ -1,3 +1,5 @@
+
+
 # <img src="https://ywh555hhh.github.io/EmoGdream/stickers/sakiko/sakiko_reach_out.webp" width="40" align="absmiddle"> Hi, I'm Wayne
 
 > **AI Inference Infra** *(in progress)*  |  **Vibe-coding Full-stack**
@@ -22,7 +24,7 @@ specialization. My accumulated foundation to build on:
   AI-driven dev tools; long-time SillyTavern veteran.
 * **Currently interning at Baidu BMU** (Jan – Apr 2026).
 
-**Looking for**: A **Intern** in the **Greater Bay Area** —
+**Looking for**: An **Intern** in the **Greater Bay Area** —
 **Guangzhou / Shenzhen** preferred, **remote also welcome**. AI infra
 / inference / serving track.
 
